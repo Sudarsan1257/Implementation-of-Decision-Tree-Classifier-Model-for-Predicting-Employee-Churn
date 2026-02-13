@@ -25,6 +25,7 @@ Choose a measure to evaluate splits at each node:
 Gini Index or
 Entropy (Information Gain)
 Entropy formula:
+
 <img width="501" height="70" alt="image" src="https://github.com/user-attachments/assets/058e59ed-6454-4e59-ad9e-8b62ebabe87e" />
 
 5.Find the best attribute for splitting
