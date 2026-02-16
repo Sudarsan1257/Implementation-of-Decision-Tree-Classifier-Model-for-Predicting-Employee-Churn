@@ -163,23 +163,26 @@ plt.show()
 ```
 
 ## Output:
+### Data Head:
 <img width="823" height="147" alt="image" src="https://github.com/user-attachments/assets/f42afa46-8410-42b4-b5af-b5c11b7612ac" />
 
-
+### Information:
 <img width="448" height="315" alt="image" src="https://github.com/user-attachments/assets/adaca729-c65b-4de1-8c63-c1c67744347e" />
 
-
+### Null dataset:
 <img width="320" height="204" alt="image" src="https://github.com/user-attachments/assets/1d8d5d34-05d8-44a0-be29-f6242cab70c7" />
 
-
+### Value_counts():
 <img width="281" height="92" alt="image" src="https://github.com/user-attachments/assets/c8f0553c-49ed-4e78-936e-16b5d9b2edc3" />
 
-
+### Accuracy:
 <img width="172" height="76" alt="image" src="https://github.com/user-attachments/assets/86dfb012-a358-4da1-92fb-6f40c274d088" 
   />
 
+### Data Prediction:
 <img width="318" height="204" alt="image" src="https://github.com/user-attachments/assets/babdef54-b84f-46ff-b457-0accdfeb88f8" />
 
+### Decision Tree
 <img width="1068" height="589" alt="image" src="https://github.com/user-attachments/assets/84b790dc-9561-49a4-bdb6-0edef1a13a4b" />
 
 ## Result:
